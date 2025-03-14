@@ -3160,7 +3160,7 @@ https://live.3cd.io/v1/broadcast/mtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vJj1gdb/onetvlb.jpg" user-agent="Mozilla/5.0" group-title="17. |AR|🇸🇦 MIDDLE EAST-1 عربي",ONE TV_LBN [offline]
 https://live.3cd.io/v1/broadcast/one/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vJj1gdb/onetvlb.jpg" group-title="17. |AR|🇸🇦 MIDDLE EAST-1 عربي",ONE TV LBN
-https://hms.pfs.gdn/stream/mtv.m3u8?token=ZKdi9Zg2u2JkLNzfB
+https://hms.pfs.gdn/stream/mtv.m3u8?token=NCpBSGWWl7xcIYcl-vVY_g:0BoIY3hKfQ3dAGZYwf8gYA9djQhFetlSbvUfY_-u0Vr-XqCd61X_ft8a-_9sVWVVp4mMc__u9tbSSz6dpP0KcUPIeIJ7pCxPejmG6mJWfKQ_ZywMh6OE2ZqbVVM4BidOtoFzCsIrWo01N69ZMFDSptzDjYtj6P1FIepozgNSmH0t0squeZJYy6BmB-QWVzHz-hzt7DTAGYXlkVQF7lChz1ROePbHPYKq5qvg6r7mUIpzb7LsnGhQebmYpawcGhpX
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YhMgggj/lbcb.jpg" group-title="17. |AR|🇸🇦 MIDDLE EAST-1 عربي",LBC LBN [geoblocked]
 https://daiconnect.com/live/hls/rotana/lbc-cdn/.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Svnqq8G/otv.jpg" group-title="17. |AR|🇸🇦 MIDDLE EAST-1 عربي",OTV LBN [brokenlink]
